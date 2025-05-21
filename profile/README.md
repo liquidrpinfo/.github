@@ -1,6 +1,6 @@
 > [!NOTE]
 > # LiquidRP
-> ##### Copyright © 2024 LiquidRP — All Rights Reserved.
+> ##### Copyright © LiquidRP — All Rights Reserved.
 > ##### Designed and Developed by Zane (https://zane.services) for LiquidRP.
 
 > [!CAUTION]
